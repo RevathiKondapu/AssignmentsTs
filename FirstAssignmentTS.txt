@@ -64,7 +64,7 @@ enum branches{
     }
 
   }
-  const p=new car("Toyota","ZXI",2003);
+  const p=new car("luna","ZXI",2013);
   p.displayInfo();
 
 
